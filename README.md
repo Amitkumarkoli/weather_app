@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 
 ## Overview
 
@@ -54,7 +53,4 @@ To run "My Weather" app on your local machine, follow these steps:
 5. **Run the app:**
      ```bash
      flutter run
-
-## Screenshots
-   Insert screenshots of your app here to showcase its UI and functionality.
-  
+   
